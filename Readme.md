@@ -1,4 +1,4 @@
-# Reconhecimento facial com Pyhton 
+# Reconhecimento facial com Python 
 
 ## START CONFIGS
 
