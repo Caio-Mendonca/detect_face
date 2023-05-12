@@ -8,6 +8,7 @@ sampleNum = 25
 id = input("Digite seu Nick Name:")
 width, height = 220, 220
 print("Capturando as faces...")
+print("Por favor, olhe para a camera e clique a tecla Q para capturar as faces")
 while True:
     ret, frame = cam.read()
     grayImg = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
